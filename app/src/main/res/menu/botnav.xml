@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    NIM: 10119110
+    NAMA: BANI FAZA RASYADAN
+    KELAS: IF-3
+-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/catatan"
+        android:id="@+id/catatan"
+        android:title="Catatan" />
+
+    <item
+        android:icon="@drawable/profil"
+        android:id="@+id/profil"
+        android:title="Profil" />
+
+    <item
+        android:icon="@drawable/logout"
+        android:id="@+id/logout"
+        android:title="Logout" />
+
+
+
+
+
+
+</menu>
